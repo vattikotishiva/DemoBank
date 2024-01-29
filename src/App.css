@@ -1,0 +1,51 @@
+
+.rows{
+  display: flex;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+
+
+
+
+
+/* .list-group-item{
+  display: flex;
+  justify-content: space-between;
+} */
+
+
+
+/* 
+.App{
+  margin-left: 100vh;
+  display: flex;
+  height: 100vh;
+  align-content: center;
+  align-items: center;
+  gap: 10px;
+  
+  
+}
+  .minus{
+    border-radius: 1px;
+    background-color: aqua;
+    color: black;
+    padding: 5px 10px;
+    cursor: pointer;
+  
+  }
+button:disabled{
+  opacity: 0.5;
+}
+
+.plus{
+  border-radius: 1px;
+  background-color: brown;
+  color: black;
+  padding: 5px 10px;
+} */
